@@ -1,6 +1,14 @@
 <h1 align="center">Amineh Dadsetan</h1>
 <h3 align="center">🏗️ Building ML platform @ Amazon</h3>
 
+<p align="center">
+I built a framework that auto-visualises formulas computed with JAX — a bit like autograd,
+except it traces your code to <em>draw</em> the maths instead of differentiating it.<br/>
+See the <a href="https://github.com/aminehd/jaxvis">framework</a>, the
+<a href="https://aminehd.github.io/formula-a-day/">site</a> where I add something new daily,
+and the <a href="https://github.com/aminehd/jaxvis-lab">lab</a> that ties them together.
+</p>
+
 ## 🚀 Open-source contributions
 
 _8 pull requests merged across the ML ecosystem._
