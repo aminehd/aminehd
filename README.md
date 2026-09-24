@@ -2,8 +2,7 @@
 <h3 align="center">🏗️ Building ML platform @ Amazon</h3>
 
 <p align="center">
-I built a framework that auto-visualises formulas computed with JAX — a bit like autograd,
-except it traces your code to <em>draw</em> the maths instead of differentiating it.<br/>
+I built a framework that auto-visualises formulas computed with JAX — a bit like autograd.<br/>
 See the <a href="https://github.com/aminehd/jaxvis">framework</a>, the
 <a href="https://aminehd.github.io/formula-a-day/">site</a> where I add something new daily,
 and the <a href="https://github.com/aminehd/jaxvis-lab">lab</a> that ties them together.
